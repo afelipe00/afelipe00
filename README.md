@@ -23,7 +23,7 @@ const Felipe = {
     pronouns: "he" | "him",
     code: ["JavaScript", "Python", ".Net", "C++", "C"],
     tools: ["vueJS", "nodeJS", "Django", "Docker", "Nginx"],
-    arquictecture: ["serverless", "microservices"]
+    arquictecture: ["serverless", "microservices"],
     cloud: {
         "Azure": ["azure functions", "virtual machines"],
         "Amazon": ["EC2","S3","EMR"],
