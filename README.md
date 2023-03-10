@@ -22,8 +22,8 @@ Hola soy Felipe Diaz un ingeniero electrónico al que le gusta mucho el café �
 const Felipe = {
     pronouns: "he" | "him",
     code: ["Python", "Dart", "C++", "JavaScript"],
-    frameworks: ["ReactJs", "Flutter", "Django", "Qt"]
-    tools: ["Docker", "Nginx", "Kubernetes", "Zsh"],
+    frameworks: ["ReactJs", "Flutter", "Django", "Qt"],
+    tools: ["Docker", "Nginx", "Kubernetes", "Zsh", "YML"],
     arquictecture: ["serverless", "microservices"],
     cloud: {
         "Azure": ["Azure functions", "Virtual machines", "WebApp", "Application Insights"],
