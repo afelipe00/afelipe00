@@ -1,4 +1,4 @@
-# console.log("Hi, I'm Felipe 👋")
+# logging.info("Hi, I'm Felipe 👋")
 
 <a href="test.com">
     <img align="center" alt="portada" src="./images/Banner.jpg">
@@ -8,7 +8,7 @@
 
 👨‍🎓 Ingeniero Electrónico de [*Universidad Sergio Arboleda*](https://www.usergioarboleda.edu.co/)
 
-🔭 Software Developer en [*Nextonia*](http://www.nextonia.com.co/)
+🔭 Software Developer en [*Konyu*](http://www.konyu.com.co/)
 
 ![GitHub followers](https://img.shields.io/github/followers/afelipe00?style=social)
 [![Linkedin: Felipe Diaz](https://img.shields.io/badge/-FelipeDiaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-felipe-diaz-rodriguez-835780123/)](https://www.linkedin.com/in/andres-felipe-diaz-rodriguez-835780123/)
@@ -21,17 +21,29 @@ Hola soy Felipe Diaz un ingeniero electrónico al que le gusta mucho el café �
 ```javascript
 const Felipe = {
     pronouns: "he" | "him",
-    code: ["JavaScript", "Python", ".Net", "C++", "C"],
-    tools: ["vueJS", "nodeJS", "Django", "Docker", "Nginx"],
+    code: ["Python", "Dart", "C++", "JavaScript"],
+    frameworks: ["ReactJs", "Flutter", "Django", "Qt"]
+    tools: ["Docker", "Nginx", "Kubernetes", "Zsh"],
     arquictecture: ["serverless", "microservices"],
     cloud: {
-        "Azure": ["azure functions", "virtual machines"],
-        "Amazon": ["EC2","S3","EMR"],
+        "Azure": ["Azure functions", "Virtual machines", "WebApp", "Application Insights"],
+        "Amazon": ["EC2", "S3", "EMR", "Lambda Functions"],
         "Google": ["",""]
     },
-    challenge: "Quiero Convertirme en un desarrollador fullStack en mas de una tecnología para 2021"
+    services: {
+        "Firebase": ["RealTime Database", "Firebase Authentication", "Firebase Cloud Messagging", "Firebase Crashlytics"]
+    },
+    ia: ["ChatGPT", "MidJourney", "Stable Diffusion", "OpenCV", "Keras", "TensorFlow", "SKLearn"],
+    challenge: {
+        "2020": "Improve my skills in cloud computing and python",
+        "2021": "Become a fullstack developer",
+        "2022": "Learn mobile development",
+        "2023": "Improve my skills in artificial intelligence development"
+    }
 }
 ```
+
 ![Felipe github stats](https://github-readme-stats.vercel.app/api?username=afelipe00&show_icons=true&theme=dark&custom_title=Felipe%20Díaz%20GitHub%20Stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afelipe00&layout=compact&theme=dark&langs_count=10&hide=Jupyter%20Notebook,Makefile,Pascal,QMake)
 
