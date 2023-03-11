@@ -11,7 +11,7 @@
 🔭 Software Developer en [*Konyu*](http://www.konyu.com.co/)
 
 ![GitHub followers](https://img.shields.io/github/followers/afelipe00?style=social)
-[![Linkedin: Felipe Diaz](https://img.shields.io/badge/-FelipeDiaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-felipe-diaz-rodriguez-835780123/)](https://www.linkedin.com/in/andres-felipe-diaz-rodriguez-835780123/)
+[![Linkedin: Felipe Diaz](https://img.shields.io/badge/-FelipeDiaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9s-felipe-d%C3%ADaz-rodr%C3%ADguez-835780123/)](https://www.linkedin.com/in/andr%C3%A9s-felipe-d%C3%ADaz-rodr%C3%ADguez-835780123/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/a_felipe00?style=social)
 
 
