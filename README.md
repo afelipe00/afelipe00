@@ -30,8 +30,8 @@ const Felipe = {
     tools: ["ClickUp", "Figma", "Miro", "Slack", "Docker", "zsh", "YML"],
     architecture: ["serverless", "microservices", "Monolithic"],
     cloud: {
-        "Azure": ["Azure functions", "Virtual machines", "WebApp", "Application Insights", "Table Storage", "Blob Storage", "Cosmos DB"],
-        "Amazon": ["EC2", "S3", "Lambda Functions"],
+        "Azure": ["Azure functions", "Virtual machines", "WebApp", "Application Insights", "Table Storage", "Blob Storage", "Cosmos DB",],
+        "Amazon": ["EC2", "S3", "Lambda Functions",],
         "Google": ["GCP Functions"]
     },
     services: {
