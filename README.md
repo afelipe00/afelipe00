@@ -30,12 +30,25 @@ const Felipe = {
     tools: ["ClickUp", "Figma", "Miro", "Slack", "Docker", "zsh", "YML"],
     architecture: ["serverless", "microservices", "Monolithic"],
     cloud: {
-        "Azure": ["Azure functions", "Virtual machines", "WebApp", "Application Insights", "Table Storage", "Blob Storage", "Cosmos DB",],
-        "Amazon": ["EC2", "S3", "Lambda Functions",],
+        "Azure": [
+            "Azure functions", 
+            "Virtual machines", 
+            "WebApp",
+            "Application Insights",
+            "Table Storage",
+            "Blob Storage",
+            "Cosmos DB",
+        ],
+        "Amazon": ["EC2", "S3", "Lambda Functions"],
         "Google": ["GCP Functions"]
     },
     services: {
-        "Firebase": ["RealTime Database", "Firebase Authentication", "Firebase Cloud Messaging", "Firebase Crashlytics"]
+        "Firebase": [
+            "RealTime Database",
+            "Firebase Authentication",
+            "Firebase Cloud Messaging",
+            "Firebase Crashlytics",
+        ]
     },
     ia: ["OpenCV", "PyTorch", "TensorFlow", "SKLearn"],
     challenge: {
